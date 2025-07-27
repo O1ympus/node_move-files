@@ -52,4 +52,4 @@ const moveFiles = async () => {
 
 moveFiles();
 
-module.exports = { moveFiles };
+module.exports = moveFiles;
